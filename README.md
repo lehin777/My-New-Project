@@ -36,21 +36,17 @@ I want to note that this is our first experience in this area and perhaps some p
 
 The model will look like this:
 
-
+![model AI](4.jpg)
 
 ## Challenges
 
-What does your project _not_ solve? Which limitations and ethical considerations should be taken into account when deploying a solution like this?
+Unfortunately, we have not yet solved the problem of prompt collection of all the data that we need to build a model. 
 
 ## What next?
 
-How could your project grow and become something even more? What kind of skills, what kind of assistance would you  need to move on? 
+In the future, we need to find an opportunity to quickly pump up all the necessary input parameters in real time. Make a beta version of the program and at least for a few months compare its results with real data.
 
 
 ## Acknowledgments
 
-* list here the sources of inspiration 
-* do not use code, images, data etc. from others without permission
-* when you have permission to use other people's materials, always mention the original creator and the open source / Creative Commons licence they've used
-  <br>For example: [Sleeping Cat on Her Back by Umberto Salvagnin](https://commons.wikimedia.org/wiki/File:Sleeping_cat_on_her_back.jpg#filelinks) / [CC BY 2.0](https://creativecommons.org/licenses/by/2.0)
-* etc
+* I would like to express my gratitude to the researcher from Energy Research Lab, College of Engineering, Effat University, P.O. Box 34689, Jeddah 21478, Saudi Arabia, Tayeb Brahimi, whose scientific work inspired me to further explore this interesting topic.
