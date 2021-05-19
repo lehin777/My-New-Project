@@ -16,40 +16,27 @@ There are many models for predicting weather conditions. So are the wind current
 
 Ultimately, having created a model and having the ability to visualize it in the short term, it can be interesting not only for kitesurfers, but also for windsurfers, sailors, fishermen and many other users.
 
-Images will make your README look nice!
-Once you upload an image to your repository, you can link link to it like this (replace the URL with file path, if you've uploaded an image to Github.)
+Ultimately, the final rendering may look different. But there should be a windy scale in it, which will show the strength and direction of the wind for several days in advance.
+It will look something like this:
 ![visualization 1](1.png)
-![visualization 2](3.png)
-
-
-This is how you create code examples:
-```
-def main():
-   countries = ['Denmark', 'Finland', 'Iceland', 'Norway', 'Sweden']
-   pop = [5615000, 5439000, 324000, 5080000, 9609000]   # not actually needed in this exercise...
-   fishers = [1891, 2652, 3800, 11611, 1757]
-
-   totPop = sum(pop)
-   totFish = sum(fishers)
-
-   # write your solution here
-
-   for i in range(len(countries)):
-      print("%s %.2f%%" % (countries[i], 100.0))    # current just prints 100%
-
-main()
-```
+![visualization 2](3.jpg)
 
 
 ## Data sources and AI methods
-Where does your data come from? Do you collect it yourself or do you use data collected by someone else?
-If you need to use links, here's an example:
-[Twitter API](https://developer.twitter.com/en/docs)
+To create our first model, we will need the following input data:
+- air temperature
+- wind direction
+- direct normal irradiation (DNI) 
+- the diffuse horizontal irradiation (DHI)
+- the global horizontal irradiation (GHI)
+- humidity
+- pressure
 
-| Syntax      | Description |
-| ----------- | ----------- |
-| Header      | Title       |
-| Paragraph   | Text        |
+I want to note that this is our first experience in this area and perhaps some parameters will be replaced or excluded in the future. Or the model itself can be simplified.
+
+The model will look like this:
+
+
 
 ## Challenges
 
