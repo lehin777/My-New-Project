@@ -1,26 +1,20 @@
 
 # Analysis and prediction of wind flows in the Baltic States
 
-Final project for the Building AI course
+It is my final project for the Building AI course. In it, I would like to share my thoughts on creating a new resource that could help analys and predict of wind flows in the Baltic States with help AI methods. 
 
 ## Summary
 
-Describe briefly in 2-3 sentences what your project is about. About 250 characters is a nice length! 
+My project is to find the optimal AI model which can help the most accurate forecast of wind strength and direction in the Baltic States. It is necessary to study the existing models that are used for wind forecast in other regions and try to optimize it for our region.
 
 
 ## Background
 
-Which problems does your idea solve? How common or frequent is this problem? What is your personal motivation? Why is this topic important or interesting?
-
-This is how you make a list, if you need one:
-* problem 1
-* problem 2
-* etc.
-
+There are many models for predicting weather conditions. So are the wind currents and their strength. But as my personal observations show, in our region they are not accurate enough.I have been kitesurfing for the third year already and forecasting the strength and direction of the wind is very important for me in my hobby. I faced the problem that world leaders in this area, such as for example Windguru or Windy not accurate enough in the Baltic Sea region. The ultimate goal of my project is to improve the model, with an AI model that can more accurately predict in the short term.
 
 ## How is it used?
 
-Describe the process of using the solution. In what kind situations is the solution needed (environment, time, etc.)? Who are the users, what kinds of needs should be taken into account?
+Ultimately, having created a model and having the ability to visualize it in the short term, it can be interesting not only for kitesurfers, but also for windsurfers, sailors, fishermen and many other users.
 
 Images will make your README look nice!
 Once you upload an image to your repository, you can link link to it like this (replace the URL with file path, if you've uploaded an image to Github.)
